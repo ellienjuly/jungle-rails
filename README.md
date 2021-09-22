@@ -2,7 +2,9 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+!["Screenshot description"](https://github.com/ellienjuly/jungle-rails/blob/master/docs/adminpage.jpg)
 
+!["Screenshot description"](https://github.com/ellienjuly/jungle-rails/blob/master/docs/homepage.jpg)
 
 ## Additional Steps for Apple M1 Machines
 
